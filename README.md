@@ -7,7 +7,8 @@ Repositorio utilizado para la práctica de GitLab y trabajo colaborativo.
 * Hector
 * Luis
 * Leonel
-* Jael - editado desde la terminal
+* Jael - texto editado para la corrección del problema del punto no.5 (Resolución de conflictos con repositorios remotos.)
+
 
 
 
