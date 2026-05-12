@@ -7,7 +7,7 @@ Repositorio utilizado para la práctica de GitLab y trabajo colaborativo.
 * Hector
 * Luis
 * Leonel
-* Jael
+* Jael - Editado desde la web
 
 
 
